@@ -1,0 +1,24 @@
+H:\x\1 MURAT\4 YAZILIM\1 C# PROGRAMLAMA\7 YAZILANLAR\MB Klasör İşlemleri\MB Klasör Adı Değiştirme v1.0\MB Klasör Adı Değiştirme v1.0\bin\Debug\MB Klasör Adı Değiştirme v1.0.exe
+H:\x\1 MURAT\4 YAZILIM\1 C# PROGRAMLAMA\7 YAZILANLAR\MB Klasör İşlemleri\MB Klasör Adı Değiştirme v1.0\MB Klasör Adı Değiştirme v1.0\bin\Debug\MB Klasör Adı Değiştirme v1.0.pdb
+H:\x\1 MURAT\4 YAZILIM\1 C# PROGRAMLAMA\7 YAZILANLAR\MB Klasör İşlemleri\MB Klasör Adı Değiştirme v1.0\MB Klasör Adı Değiştirme v1.0\obj\x86\Debug\MB_Klasör_Adı_Değiştirme_v1._0.Form1.resources
+H:\x\1 MURAT\4 YAZILIM\1 C# PROGRAMLAMA\7 YAZILANLAR\MB Klasör İşlemleri\MB Klasör Adı Değiştirme v1.0\MB Klasör Adı Değiştirme v1.0\obj\x86\Debug\MB_Klasör_Adı_Değiştirme_v1._0.Properties.Resources.resources
+H:\x\1 MURAT\4 YAZILIM\1 C# PROGRAMLAMA\7 YAZILANLAR\MB Klasör İşlemleri\MB Klasör Adı Değiştirme v1.0\MB Klasör Adı Değiştirme v1.0\obj\x86\Debug\MB Klasör Adı Değiştirme v1.0.csproj.GenerateResource.Cache
+H:\x\1 MURAT\4 YAZILIM\1 C# PROGRAMLAMA\7 YAZILANLAR\MB Klasör İşlemleri\MB Klasör Adı Değiştirme v1.0\MB Klasör Adı Değiştirme v1.0\obj\x86\Debug\MB Klasör Adı Değiştirme v1.0.exe
+H:\x\1 MURAT\4 YAZILIM\1 C# PROGRAMLAMA\7 YAZILANLAR\MB Klasör İşlemleri\MB Klasör Adı Değiştirme v1.0\MB Klasör Adı Değiştirme v1.0\obj\x86\Debug\MB Klasör Adı Değiştirme v1.0.pdb
+H:\x\1 MURAT\4 YAZILIM\1 C# PROGRAMLAMA\7 YAZILANLAR\MB Klasör İşlemleri\MB Klasör Adı Değiştirme v1.0\MB Klasör Adı Değiştirme v1.0\obj\x86\Debug\MB Klasör Adı Değiştirme v1.0.csprojResolveAssemblyReference.cache
+C:\Users\Murat Bilginer\Desktop\MB Klasör İşlemleri\MB Klasör Adı Değiştirme v1.0\MB Klasör Adı Değiştirme v1.0\obj\x86\Debug\MB Klasör Adı Değiştirme v1.0.exe
+C:\Users\Murat Bilginer\Desktop\MB Klasör İşlemleri\MB Klasör Adı Değiştirme v1.0\MB Klasör Adı Değiştirme v1.0\obj\x86\Debug\MB Klasör Adı Değiştirme v1.0.pdb
+C:\Users\Murat Bilginer\Desktop\MB Klasör İşlemleri\MB Klasör Adı Değiştirme v1.0\MB Klasör Adı Değiştirme v1.0\bin\Debug\MB Klasör Adı Değiştirme v1.0.exe
+C:\Users\Murat Bilginer\Desktop\MB Klasör İşlemleri\MB Klasör Adı Değiştirme v1.0\MB Klasör Adı Değiştirme v1.0\bin\Debug\MB Klasör Adı Değiştirme v1.0.pdb
+C:\Users\Murat Bilginer\Desktop\MB Klasör İşlemleri\MB Klasör Adı Değiştirme v1.0\MB Klasör Adı Değiştirme v1.0\obj\x86\Debug\MB Klasör Adı Değiştirme v1.0.csprojResolveAssemblyReference.cache
+C:\Users\Murat Bilginer\Desktop\MB Klasör İşlemleri\MB Klasör Adı Değiştirme v1.0\MB Klasör Adı Değiştirme v1.0\obj\x86\Debug\MB_Klasör_Adı_Değiştirme_v1._0.Form1.resources
+C:\Users\Murat Bilginer\Desktop\MB Klasör İşlemleri\MB Klasör Adı Değiştirme v1.0\MB Klasör Adı Değiştirme v1.0\obj\x86\Debug\MB_Klasör_Adı_Değiştirme_v1._0.Properties.Resources.resources
+C:\Users\Murat Bilginer\Desktop\MB Klasör İşlemleri\MB Klasör Adı Değiştirme v1.0\MB Klasör Adı Değiştirme v1.0\obj\x86\Debug\MB Klasör Adı Değiştirme v1.0.csproj.GenerateResource.Cache
+E:\03 - Yazılım\05 - Büyük Projeler\23 Klasör Adı Değiştirme v1.0\MB Klasör Adı Değiştirme v1.0\obj\x86\Debug\MB Klasör Adı Değiştirme v1.0.exe
+E:\03 - Yazılım\05 - Büyük Projeler\23 Klasör Adı Değiştirme v1.0\MB Klasör Adı Değiştirme v1.0\obj\x86\Debug\MB Klasör Adı Değiştirme v1.0.pdb
+E:\03 - Yazılım\05 - Büyük Projeler\23 Klasör Adı Değiştirme v1.0\MB Klasör Adı Değiştirme v1.0\bin\Debug\MB Klasör Adı Değiştirme v1.0.exe
+E:\03 - Yazılım\05 - Büyük Projeler\23 Klasör Adı Değiştirme v1.0\MB Klasör Adı Değiştirme v1.0\bin\Debug\MB Klasör Adı Değiştirme v1.0.pdb
+E:\03 - Yazılım\05 - Büyük Projeler\23 Klasör Adı Değiştirme v1.0\MB Klasör Adı Değiştirme v1.0\obj\x86\Debug\MB Klasör Adı Değiştirme v1.0.csprojResolveAssemblyReference.cache
+E:\03 - Yazılım\05 - Büyük Projeler\23 Klasör Adı Değiştirme v1.0\MB Klasör Adı Değiştirme v1.0\obj\x86\Debug\MB_Klasör_Adı_Değiştirme_v1._0.Form1.resources
+E:\03 - Yazılım\05 - Büyük Projeler\23 Klasör Adı Değiştirme v1.0\MB Klasör Adı Değiştirme v1.0\obj\x86\Debug\MB_Klasör_Adı_Değiştirme_v1._0.Properties.Resources.resources
+E:\03 - Yazılım\05 - Büyük Projeler\23 Klasör Adı Değiştirme v1.0\MB Klasör Adı Değiştirme v1.0\obj\x86\Debug\MB Klasör Adı Değiştirme v1.0.csproj.GenerateResource.Cache
